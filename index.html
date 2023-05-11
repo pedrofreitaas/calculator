@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        <link rel='stylesheet' href='css/style.css'/>
+        <script src="script/script.js" defer> </script>
+        <script src="https://kit.fontawesome.com/2aba07abb1.js" crossorigin="anonymous"></script>
+        
+        <title>Calculator</title>
+    </head>
+
+    <body>
+
+        <div id="calculator">
+            
+            <div id="display">
+                <input type="text" id="calculator_display" readonly>
+                <div class="buttons">
+                    <button id="clear" onclick="clearDisplay()"><i class="fa-sharp fa-solid fa-broom"></i></button> 
+                    <button id="result" onclick="giveResult()"><i class="fa-sharp fa-solid fa-equals"></i></button>
+                </div>
+            </div>
+
+            <div class="buttons">
+                <button onclick="addNumber(this)">1</button>
+                <button onclick="addNumber(this)">2</button>
+                <button onclick="addNumber(this)">3</button>
+                <button onclick="setOperation('sum')"> <i class="fa-solid fa-plus"></i> </button>
+                <button onclick="setOperation('sub')"> <i class="fa-solid fa-minus"></i> </button>
+                <br/>
+                <button onclick="addNumber(this)">4</button>
+                <button onclick="addNumber(this)">5</button>
+                <button onclick="addNumber(this)">6</button>
+                <button onclick="setOperation('mul')"> <i class="fa-solid fa-xmark"></i> </button>
+                <button onclick="setOperation('div')"> <i class="fa-solid fa-divide"></i> </button>
+                <br/>
+                <button onclick="addNumber(this)">7</button>
+                <button onclick="addNumber(this)">8</button>
+                <button onclick="addNumber(this)">9</button>
+                <button onclick="setOperation('root')"> <i class="fa-sharp fa-solid fa-square-root-variable"></i> </button>
+                <button onclick="setOperation('elevate')"> X<sup>Y</sup> </button>
+                <br/>
+                <button onclick="addNumber(this)">0</button> 
+            </div>
+
+        </div>
+        
+    </body>
+</html>
