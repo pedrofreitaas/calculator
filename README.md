@@ -1,6 +1,8 @@
 # Calculator.
 
 ```
+Simple calculator that support numerical operations,
+such as: result, clearing, addition, subtraction, multiplication, division, root and pow.
 ```
 
 ## 🛠 Languages:
@@ -10,4 +12,4 @@
 
 ## Projects screenshots.
 
-![]()
+![Not stylized version](https://i.imgur.com/9kbNVhP.png)
