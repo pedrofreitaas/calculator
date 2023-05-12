@@ -11,7 +11,7 @@ such as: result, clearing, addition, subtraction, multiplication, division, root
 ![](https://img.shields.io/badge/-CSS-white?logo=css3&logoColor=blue&style=flat)
 
 ## Project video.
-![](https://www.youtube.com/watch?v=B8c57U5HdgQ)
+[![Video demo.](https://i.imgur.com/DrxdfMj.png)](https://www.youtube.com/watch?v=B8c57U5HdgQ)
 
 ## Projects screenshots.
 
