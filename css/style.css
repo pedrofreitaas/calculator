@@ -91,11 +91,6 @@ body {
     animation-duration: .75s;
 }
 
-#zero {
-    position: absolute;
-    left: 55px;
-}
-
 .buttons > button:hover {
     background-color: brown;
 }

@@ -4,7 +4,7 @@ var operation='';
 function setOperation(operation_str) {
     let calculator_display = document.getElementById('calculator_display');
 
-    op1 = parseInt(calculator_display.value);
+    op1 = parseFloat(calculator_display.value);
     operation = operation_str;
     calculator_display.value = '';
 }
@@ -37,4 +37,10 @@ function addNumber(button) {
     let calculator_display = document.getElementById('calculator_display');
 
     calculator_display.value += button.innerHTML;
+}
+
+function addDot() {
+    let calculator_display = document.getElementById('calculator_display');
+    
+    calculator_display.value += '.';
 }
