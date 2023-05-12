@@ -10,7 +10,7 @@ such as: result, clearing, addition, subtraction, multiplication, division, root
 ![](https://img.shields.io/badge/-HTML-white?logo=html5&logoColor=orange&style=flat)
 ![](https://img.shields.io/badge/-CSS-white?logo=css3&logoColor=blue&style=flat)
 
-## Project video.
+## Project's final version video.
 [![Video demo.](https://i.imgur.com/DrxdfMj.png)](https://www.youtube.com/watch?v=B8c57U5HdgQ)
 
 ## Projects screenshots.
