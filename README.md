@@ -15,5 +15,7 @@ such as: result, clearing, addition, subtraction, multiplication, division, root
 
 ## Projects screenshots.
 
-![Final version](https://i.imgur.com/DrxdfMj.png)
+```
+Not the final version.
+```
 ![Not stylized version](https://i.imgur.com/9kbNVhP.png)
