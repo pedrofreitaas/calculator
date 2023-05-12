@@ -30,7 +30,7 @@ function giveResult() {
 function clearDisplay() {
     let calculator_display = document.getElementById('calculator_display');
 
-    calculator_display.value = '';
+    calculator_display.value = operation = '';
 }
 
 function addNumber(button) {
